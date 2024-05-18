@@ -1,0 +1,5 @@
+com\example\microservice3\Domain\Maquina.class
+com\example\microservice3\MicroService3Application.class
+com\example\microservice3\application\MaquinaController.class
+com\example\microservice3\Service\MaquinaService.class
+com\example\microservice3\Infrastracture\MaquinaRepository.class
